@@ -22,4 +22,8 @@ This project pays homage to Iranian poets and thinkers by providing an interacti
 
 ---
 
+## Preview
+
+![Description](assets/images/Preview.PNG)
+
 Feel free to suggest additional features or enhancements to improve this project further!
